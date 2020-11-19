@@ -10,7 +10,7 @@ This tool uses [Spatie Permission](https://github.com/spatie/laravel-permission)
 You can install the package via composer:
 
 ```bash
-composer require digitalcloud/nova-permission-tool
+composer require vladout/nova-permission-tool
 ```
 
 You can publish the migration with:
