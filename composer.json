@@ -1,5 +1,5 @@
 {
-    "name": "digitalcloud/nova-permission-tool",
+    "name": "vladout/nova-permission-tool",
     "description": "A Laravel Nova Permission tool.",
     "keywords": [
         "laravel",
